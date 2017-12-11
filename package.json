@@ -1,0 +1,29 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Mini api rest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dougcarvf/appAgenda/"
+  },
+  "keywords": [
+    "Angularjs",
+    "javascript",
+    "express",
+    "node"
+  ],
+  "dependencies": {
+    "express": "^3.x",
+    "bower": "1.8.2"
+  },
+  "author": "Douglas Carvalho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dougcarvf/appAgenda//issues"
+  },
+  "homepage": "https://github.com/dougcarvf/appAgenda/"
+}
