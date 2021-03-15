@@ -1,5 +1,5 @@
 # appAgenda
-Projeto da academia da AccentureAgenda web simples para contatos.
+Projeto Agenda web simples para contatos.
 
 ## Instalação
 
